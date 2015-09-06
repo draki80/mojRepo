@@ -1,5 +1,5 @@
 <?php
-
+Promena1
 include_once('tDebug.php');
 
 interface iCrud{
